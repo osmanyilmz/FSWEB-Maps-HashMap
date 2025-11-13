@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+target/classes/org/example/entity/Employee.class
+target/classes/org/example/Main.class
+target/classes/org/example/WordCounter.class
+target/test-classes/MainTest.class
+target/test-classes/ResultAnalyzer$TestResultStatus.class
+target/test-classes/ResultAnalyzer.class
